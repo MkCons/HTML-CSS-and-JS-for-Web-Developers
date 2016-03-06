@@ -16,3 +16,17 @@
 	height: 1000px;
 	background-color: #f6b319;
 }
+
+.section {
+	background-color: #f6b319;
+	margin-bottom: 15px;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px; 
+}
+
+.container{
+	margin-left: 10px;
+}
